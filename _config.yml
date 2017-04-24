@@ -1,0 +1,16 @@
+# Site settings
+title: "Space Launcher"
+description: An experimental Android launcher using colour and space.
+keywords: android, launcher, colour, color, space
+author: "Patrick Schroen"
+email: ps@ufo.ai
+url: "https://ufo.ai/space/"
+cdn: "https://ufo.ai/space"
+app_id: ai.ufo.spacelauncher
+share_title: An experimental Android launcher using colour and space
+share_description: No icons, just colour and space as a proof of concept.
+twitter_username: pschroen
+ga_ua_id: "UA-51047442-1"
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,23 @@
+{
+  "name": "space",
+  "version": "1.0.0",
+  "description": "Space Launcher",
+  "homepage": "https://ufo.ai/space/",
+  "keywords": [
+    "android",
+    "launcher",
+    "colour",
+    "color",
+    "space"
+  ],
+  "author": "Patrick Schroen <ps@ufotechnologies.com> (https://ufo.ai/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ufotechnologies/space"
+  },
+  "bugs": {
+    "url": "https://github.com/ufotechnologies/space/issues"
+  },
+  "license": "MIT",
+  "private": true
+}
