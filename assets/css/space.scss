@@ -123,13 +123,9 @@ pre {
 }
 
 .badges {
+    margin-left: -10px;
     margin-top: 10px;
-    text-align: right;
     white-space: nowrap;
-
-    @media (min-width: 1025px) {
-        margin-left: 59px;
-    }
 }
 
 .intro {
